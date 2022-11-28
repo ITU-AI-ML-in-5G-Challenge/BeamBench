@@ -19,7 +19,7 @@ chmod +x run_docker.sh
 ./run_docker
 ```
 
-### CD to your code folder
+## CD to your code folder
 ```
 cd /workspace/home/.../challenge_net/
 ```
