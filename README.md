@@ -7,6 +7,8 @@ BeamBench Framework by Maximilian Arnold for evaluating multi-modal beam predict
 ## Installation
 NOTE: This is for Ubunutu 18.04 with CUDA 11.4!
 
+## Documentation
+See report and Slides in /docs/
 
 ### Build docker
 ```
